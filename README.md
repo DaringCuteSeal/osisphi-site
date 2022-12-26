@@ -22,7 +22,7 @@ Untuk sekarang, situs ini dikerahkan (*deploy*) di `https://daringcuteseal.githu
 3. *Ya terus kenapa? Bisa dibuka toh. Masalah?*
 
 ### Analitik
-Karena program kerja ini memiliki indikator pencapaian pengguna, maka situs ini menggunakan analitik [tinyanalytics.com](https://tinyanalytics.com).
+Karena program kerja ini memiliki indikator pencapaian pengguna, maka situs ini menggunakan analitik [tinyanalytics.io](https://tinyanalytics.io).
 
 <!-- TODO -->
 Untuk mengganti URL skrip analitik, sunting []().
