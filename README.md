@@ -8,6 +8,8 @@ Situs blogging OSIS SMPK PENABUR Harapan Indah dikerahkan pada masa bakti 2022-2
 Situs ini menggunakan [GitHub Pages](https://pages.github.com/) untuk hosting. Kamu sebaiknya [membiasakan diri dengan GitHub](https://docs.github.com/en) dan [git](https://git-scm.com/doc) untuk memelihara website ini.
 
 ### Pembangun Situs Web
+
+<!-- TODO -->
 Situs web ini dibangun menggunakan [Jekyll](https://jekyllrb.com) dengan templat [](). Untuk mempelajari Jekyll, [buka halaman dokumentasi Jekyll](https://jekyllrb.com/docs/).
 
 ### URL dan Domain
@@ -18,6 +20,12 @@ Untuk sekarang, situs ini dikerahkan (*deploy*) di `https://daringcuteseal.githu
 1. Pendiri website ini awalnya ingin membuat akun GitHub baru khusus untuk meng-host situs ini, namun karena sifat GitHub yang memungkinkan kolaborasi melalui [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) dan [perpindahan pemilik](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository), pembuatan akun baru seharusnya tidak begitu relevan.
 2. Pendiri website ini sudah memiliki website `daringcuteseal.github.io`, sehingga tidak memungkinkan untuk membuat repositori khusus untuk website OSIS PHI lagi.
 3. *Ya terus kenapa? Bisa dibuka toh. Masalah?*
+
+### Analitik
+Karena program kerja ini memiliki indikator pencapaian pengguna, maka situs ini menggunakan analitik [tinyanalytics.com](https://tinyanalytics.com).
+
+<!-- TODO -->
+Untuk mengganti URL skrip analitik, sunting []().
 
 
 ## Menambahkan Postingan Blog Baru
