@@ -21,12 +21,18 @@ Untuk sekarang, situs ini dikerahkan (*deploy*) di `https://daringcuteseal.githu
 
 
 ## Menambahkan Postingan Blog Baru
-Letakkan file dengan nama *tahun-bulan-tanggal-judul.md* di folder *_posts*:
+Letakkan file dengan nama *tahun-bulan-tanggal-judul.md* di folder *_posts* seperti ini:
+![add-file](https://user-images.githubusercontent.com/95740760/209554094-bc050c5a-5933-438b-9a2a-7a864a506f80.png)
 
+Contoh postingan:
+![instruksi](instruksi-postingan.png)
 
-## Melakukan Perpindahan Pemilik
+Seluruh postingan dapat diformat dengan [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) atau elemen HTML.
+
+## Melakukan Pemindahan Pemilik
 Jika program kerja ini akan dilanjutkan pada periode selanjutnya:
-1. Beli domain yang sesuai. Kamu dapat membeli `osisphi.best` maupun domain lainnya. Ingat untuk mengganti URL situs OSIS PHI pada platform lain seperti [Instagram](https://instagram.com/osis.phi).
-2. Ganti konten [CNAME](/CNAME) dengan domain yang telah dibeli. Apabila menggunakan domain yang sama dengan domain periode sebelumnya, kamu tidak perlu menggantinya.
-3. Minta pemilik repositori ini untuk [mentransfer kepemilikan](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) repositori kepada kamu.
+1. Minta pemilik repositori ini untuk [mentransfer kepemilikan](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) repositori kepada kamu.
+2. Beli domain yang sesuai. Kamu dapat membeli `osisphi.best` maupun domain lainnya. Ingat untuk mengganti URL situs OSIS PHI pada platform lain seperti [Instagram](https://instagram.com/osis.phi).
+3. Ganti konten [CNAME](/CNAME) dengan domain yang telah dibeli. Apabila menggunakan domain yang sama dengan domain periode sebelumnya, kamu tidak perlu menggantinya.
+4. [Atur domain custom kamu](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
