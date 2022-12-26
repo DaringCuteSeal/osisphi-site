@@ -22,9 +22,11 @@ Untuk sekarang, situs ini dikerahkan (*deploy*) di `https://daringcuteseal.githu
 
 ## Menambahkan Postingan Blog Baru
 Letakkan file dengan nama *tahun-bulan-tanggal-judul.md* di folder *_posts* seperti ini:
+
 ![add-file](https://user-images.githubusercontent.com/95740760/209554094-bc050c5a-5933-438b-9a2a-7a864a506f80.png)
 
 Contoh postingan:
+
 ![instruksi](instruksi-postingan.png)
 
 Seluruh postingan dapat diformat dengan [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) atau elemen HTML.
